@@ -7,7 +7,7 @@ function Home() {
 
     return(
         <div className='main'>
-            <h1>Auhnticate the sucessfully first</h1>
+            <h1>Authnticate the sucessfully first.</h1>
             <br></br>
             
         <Container maxWidth="xs">
